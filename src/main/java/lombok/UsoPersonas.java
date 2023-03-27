@@ -12,6 +12,8 @@ public class UsoPersonas {
 		
 		System.out.println(p1.hashCode());
 		
+		System.out.println(p1.getDocumento());
+		
 	}
 
 }
